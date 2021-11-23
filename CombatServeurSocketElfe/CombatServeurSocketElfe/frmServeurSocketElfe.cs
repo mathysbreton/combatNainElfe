@@ -16,6 +16,7 @@ namespace CombatServeurSocketElfe
 {
     public partial class frmServeurSocketElfe : Form
     {
+        //Mathys Breton
         Random m_r;
         Nain m_nain;
         Elfe m_elfe;
