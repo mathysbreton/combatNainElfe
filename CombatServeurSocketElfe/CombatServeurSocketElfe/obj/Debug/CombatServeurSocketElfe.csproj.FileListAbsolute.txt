@@ -1,0 +1,10 @@
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.exe.config
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.exe
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.pdb
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.AssemblyReference.cache
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.frmServeurSocketElfe.resources
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.Properties.Resources.resources
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.GenerateResource.cache
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.CoreCompileInputs.cache
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.exe
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.pdb

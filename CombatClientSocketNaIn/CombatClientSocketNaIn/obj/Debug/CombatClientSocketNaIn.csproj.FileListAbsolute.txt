@@ -1,0 +1,10 @@
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe.config
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.pdb
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.frmClienSocketNain.resources
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.Properties.Resources.resources
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.GenerateResource.cache
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.CoreCompileInputs.cache
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.exe
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.pdb
+D:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 10\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.AssemblyReference.cache
